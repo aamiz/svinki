@@ -1,0 +1,27 @@
+body{
+    font-family:sans-serif;
+}
+header{
+    background-color:#425E17;
+}
+a{
+color:black;
+}
+main{
+background-color:#6F0035;
+font-size:50px;
+}
+h1{font-size:50px;
+background-color:#6F0035;
+ text-align:center;
+}
+footer{background-color:#425E17;color:black;
+}
+ table{background-color:#6F0035;
+ font-size: 20px;
+ text-align: center;
+ border-collapse: collapse;
+ }
+ p{font-size:18px;
+ background-color:#425E17
+ }
